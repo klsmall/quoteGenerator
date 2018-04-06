@@ -3,17 +3,21 @@ var quotes = [
   "Become a priority in your life.", 
   "Dream BIG, work HARD, stay FOCUSED, and surround yourself with good people.",
   "When you feel like quitting, think about why you started.",
-  "Make some goals, organize your week, and stay focused",
+  "Make some goals, organize your week, and stay focused!",
   "Develop self-discipline. Do what needs to be done, even if you don't want to do it.",
   "The difference between who you are and who you want to be is what you do.",
   "Be bold enough to design your own life.",
   "Confidence is power.",
   "Wake up with positive intentions to better yourself and the lives of those around you.",
   "Create the things you wish existed.",
-  "Turn your pain into power, and visons into victory!",
+  "Turn your pain into power, and visions into victory!",
   "The comeback is always stronger than the setback.",
   "Strive for progress, not perfection!",
-  "Dream hard, work harder!"
+  "Dream hard, work harder!",
+  "Find a way, not an excuse.",
+  "Your focus determines your reality.",
+  "Your attitude determines your direction.",
+  "Stay focused on what matters."
 ]
 
 function generateQuote() {
